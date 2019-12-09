@@ -1,5 +1,5 @@
 # SpringBoot-RestApi-
-The Project developed by using springboot and restapi .You can do crud actions by using this project.
+The  Project developed by using springboot and restapi .You can do crud actions by using this project.
 
 1.RestApi
 2.SpringBoot
